@@ -13,3 +13,11 @@ pip2 isntall php
 pkg install bash
 https://github.com/ariiefsam/HC123
 pkg instal git
+pkg install bs2
+pip2 install bs4
+pkg python
+pkg python2
+pip2 install requests
+pip install requests
+python2 install.lxml
+pip2 install mechanize
