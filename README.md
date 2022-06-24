@@ -1,1 +1,1 @@
-# HC123
+https://github.com/ariiefsam/HC123
