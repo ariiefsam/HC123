@@ -8,10 +8,10 @@ sh install.sh
 ~/.termux/colors.sh
 ~/.termux/fonts.sh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/mas
-https://github.com/safar 126/domino
+https://github.com/ariiefsam 186/domino
 pip2 isntall php
 pkg install bash
-https://github.com/ariiefsam/HC123
+https://github.com/ariiefsam
 pkg instal git
 pkg install bs2
 pip2 install bs4
@@ -37,4 +37,9 @@ cd
 cp
 mv
 rm
-
+https://github.com/ariiefsam/JP
+186/domino
+high domino islan
+python2 domino.py
+cd domino
+https://github.com/ariiefsam/HCJP124
