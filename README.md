@@ -51,3 +51,6 @@ git commit -m "first commit"
 git branch -M main 
 git remote add Origin https://github.com/ariiefsam/ariiefsam.git
  git push - kamu asal main
+git remote add origin https://github.com/ariiefsam/ariiefsam.git
+git branch -M main
+git push -u origin main
