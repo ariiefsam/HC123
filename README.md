@@ -28,3 +28,13 @@ gіt сlоnе httрѕ://gіthub.соm/kаrjоk/tеrkеу
 cd terkey
 python terkey.py
 pyton domino.py
+pkg install wget
+pkg install toilet
+pkg install curl
+pkg install clone
+pkg install jq
+cd
+cp
+mv
+rm
+
