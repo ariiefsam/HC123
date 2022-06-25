@@ -42,4 +42,6 @@ https://github.com/ariiefsam/JP
 high domino islan
 python2 domino.py
 cd domino
-https://github.com/ariiefsam/HCJP124
+https://github.com/ariiefsam/HC123
+1s
+
