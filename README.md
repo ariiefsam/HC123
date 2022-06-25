@@ -44,4 +44,10 @@ python2 domino.py
 cd domino
 https://github.com/ariiefsam/HC123
 1s
-
+echo "# ariiefsam" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add Origin https://github.com/ariiefsam/ariiefsam.git
+ git push - kamu asal main
