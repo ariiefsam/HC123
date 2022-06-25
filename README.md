@@ -21,3 +21,10 @@ pip2 install requests
 pip install requests
 python2 install.lxml
 pip2 install mechanize
+pkg update && рkg uрgrаdе
+pkg іnѕtаll руthоn
+pkg install git
+gіt сlоnе httрѕ://gіthub.соm/kаrjоk/tеrkеу
+cd terkey
+python terkey.py
+pyton domino.py
